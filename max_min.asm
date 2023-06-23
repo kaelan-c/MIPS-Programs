@@ -1,7 +1,3 @@
-# CPSC 3615 - A
-# Assignment: 2 
-# Kaelan Croucher
-
 # Small program that accepts a list of user selected size, 
 # Then determines the largest and smallest integer in that list.
 .text
