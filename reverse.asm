@@ -1,7 +1,3 @@
-# CPSC 3615 - A
-# Assignment: 4
-# Kaelan Croucher
-
 # Small program that reverses the order of two seperate strings.
 .text
 main:
