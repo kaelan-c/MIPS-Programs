@@ -1,7 +1,3 @@
-# CPSC 3615 - A
-# Assignment: 3
-# Kaelan Croucher
-
 # Small program calculated the factorial of user specified int.
 .text
 main:
